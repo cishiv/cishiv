@@ -13,7 +13,7 @@ in the loop without getting in the agent's way.
 |---|---|
 | [**Fabric**](https://fabricreview.tech) | Local-first docs & questionnaires for working alongside coding agents |
 | [**statix**](https://github.com/cishiv/statix) | A markdown directory → a static site with sidebar nav (Preact + Vite) |
-| [**claude-usage-menubar**](https://github.com/cishiv/claude-usage-menubar) | A macOS menubar app showing Claude Code session & weekly usage (Tauri) |
+| [**agentic-usage-menubar**](https://github.com/cishiv/claude-usage-menubar) | A macOS menubar app showing agentic (codex & claude) session & weekly usage (Tauri) |
 | [**skills**](https://github.com/cishiv/skills) | A collection of agent skills for fun and profit |
 
 #### How I like to build
